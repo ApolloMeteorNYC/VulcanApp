@@ -4,7 +4,7 @@ You will need to have Meteor, node, npm, and nvm on your computers. Please make 
 
 For tonight's event, you will start off with the Vulcan framework and work to build a package that pulls and ennumerates forthcoming Meteor-NY events into a React component. The event list you will create is read-only. The list should be visible to all website visitors; access should be unrestricted.
 
-The Vulcan framework can be found at https://github.com/VulcanJS/Vulcan. From a terminal session on your computer, pull down a copy with "git clone https://github.com/VulcanJS/Vulcan.git"
+The Vulcan framework can be found at https://github.com/VulcanJS/Vulcan. From a terminal session on your computer, pull down a copy with `git clone https://github.com/VulcanJS/Vulcan.git`
 
 You can find information about the Meetup API at https://www.meetup.com/meetup_api/ and tonight's exercise **does not** require an API key.
 
